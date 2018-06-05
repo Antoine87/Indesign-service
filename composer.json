@@ -1,0 +1,32 @@
+{
+    "name": "antoine87/indesign-api",
+    "description": "PHP wrapper library around Indesign scripting SOAP API",
+    "keywords": ["Indesign", "extendscript", "library", "soap", "web service", "client"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antoine87",
+            "email": "antoine87@openmail.cc",
+            "homepage": "https://github.com/Antoine87"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IndesignService\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

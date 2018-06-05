@@ -1,0 +1,25 @@
+%!Adobe-FontList 1.18
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\ANTWANE\Documents\Dossier Calendrier\Document fonts\Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+FileLength:751104
+FileModTime:1276256592
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
